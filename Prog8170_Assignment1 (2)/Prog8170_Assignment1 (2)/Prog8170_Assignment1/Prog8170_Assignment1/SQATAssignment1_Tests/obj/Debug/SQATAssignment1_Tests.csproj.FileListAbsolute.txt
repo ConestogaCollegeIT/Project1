@@ -1,0 +1,12 @@
+C:\Users\Grewal\Desktop\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\SQATAssignment1_Tests\bin\Debug\SQATAssignment1_Tests.dll
+C:\Users\Grewal\Desktop\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\SQATAssignment1_Tests\bin\Debug\SQATAssignment1_Tests.pdb
+C:\Users\Grewal\Desktop\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\SQATAssignment1_Tests\bin\Debug\nunit.framework.dll
+C:\Users\Grewal\Desktop\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\SQATAssignment1_Tests\bin\Debug\Prog8170_Assignment1.exe
+C:\Users\Grewal\Desktop\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\SQATAssignment1_Tests\bin\Debug\Prog8170_Assignment1.pdb
+C:\Users\Grewal\Desktop\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\SQATAssignment1_Tests\bin\Debug\Prog8170_Assignment1.exe.config
+C:\Users\Grewal\Desktop\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\SQATAssignment1_Tests\bin\Debug\nunit.framework.xml
+C:\Users\Grewal\Desktop\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\SQATAssignment1_Tests\obj\Debug\SQATAssignment1_Tests.csprojAssemblyReference.cache
+C:\Users\Grewal\Desktop\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\SQATAssignment1_Tests\obj\Debug\SQATAssignment1_Tests.csproj.CoreCompileInputs.cache
+C:\Users\Grewal\Desktop\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\SQATAssignment1_Tests\obj\Debug\SQATAssignment1_Tests.csproj.CopyComplete
+C:\Users\Grewal\Desktop\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\SQATAssignment1_Tests\obj\Debug\SQATAssignment1_Tests.dll
+C:\Users\Grewal\Desktop\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\SQATAssignment1_Tests\obj\Debug\SQATAssignment1_Tests.pdb
